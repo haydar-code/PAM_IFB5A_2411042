@@ -6,11 +6,12 @@
 **Mata Kuliah:** Pemrograman Aplikasi Bergerak  
 
 ## Judul Proyek
-[Tuliskan Judul Aplikasi Anda, misal: Aplikasi Catatan Keuangan Harian]
+[aplikasi tentang update kota secara real time ]
 
 ## Deskripsi
-[Tuliskan deskripsi singkat mengenai aplikasi yang akan dikembangkan]
+[jadi aplikasi ini tentang info update scara real time yang ada di kota misalnya macet, jalan berlubang
+kebakaran dan lain lain]
 
 ## Teknologi/Framework
-* Flutter / React Native / Kotlin / Swift *(Pilih yang digunakan)*
+* Flutter*
 * Git & GitHub/GitLab
